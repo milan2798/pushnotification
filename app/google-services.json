@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140926599713",
+    "firebase_url": "https://pushnot-4b4ed.firebaseio.com",
+    "project_id": "pushnot-4b4ed",
+    "storage_bucket": "pushnot-4b4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140926599713:android:499d5687b30afd2ce4d960",
+        "android_client_info": {
+          "package_name": "com.example.pushnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140926599713-ccuma1124bi0pvnnbkot5ip5jug9u6qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushnot",
+            "certificate_hash": "ca6610aafde03b86643d970d95bda9305e9cd727"
+          }
+        },
+        {
+          "client_id": "140926599713-rnqe4n7b52josjuvu239no74pmte590k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwEu9TNVGLXsWv58Xv9uPLp4-CAzOu8Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140926599713-rnqe4n7b52josjuvu239no74pmte590k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
