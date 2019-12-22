@@ -13,4 +13,8 @@ The Firebase Cloud Messaging Android uses for registering an Android app for not
 
 # How to send notification
 
-you can do all things from local server like xampp/wamp server or remote server. call push_notification.php to send notification to all user 
+you can do all things from local server like <b>xampp/wamp</b> server or remote server. call <b>push_notification.php</b> to send notification to all user.
+
+# Support
+if you founf any difficulty to implement kindly mail to:
+</b>zadfiyamilan112@gmail.com</b>
